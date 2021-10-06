@@ -34,6 +34,8 @@
  alt="spring" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" 
  alt="nodejs" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"
+ alt="jest" width="40" height="40"/>
 </p>
 
 <h5 align="left">DataBases</h5>
