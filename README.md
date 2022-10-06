@@ -2,6 +2,7 @@
 
 
 - 🔭 I’m currently studying @ CSE | UoM
+- 🔭 Former trainee software engineer @ CodeGen International
 
 <h5 align="left">Connect with me:</h5>
 <a href="https://www.linkedin.com/in/uthpala-nethmini/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
