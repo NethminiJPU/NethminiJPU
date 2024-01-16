@@ -1,7 +1,7 @@
-### Hi there, Its Uthpala Nethmini 👋
+### Hi there, It's Uthpala Nethmini 👋
 
-
-- 🔭 I’m currently studying @ CSE | UoM
+- 🔭 Software Engineer
+- 🔭 BSc(Hons) in Engineering, Department of Computer Science and Engineering, University of Moratuwa, Sri Lanka
 - 🔭 Former trainee software engineer @ CodeGen International
 
 <h5 align="left">Connect with me:</h5>
