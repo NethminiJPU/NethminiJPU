@@ -3,6 +3,7 @@
 - 🔭 Software Engineer
 - 🔭 BSc(Hons) in Engineering, Department of Computer Science and Engineering, University of Moratuwa, Sri Lanka
 - 🔭 Former trainee software engineer @ CodeGen International
+- 🔭 Software engineer @ SynergenHealth pvt Ltd
 
 <h5 align="left">Connect with me:</h5>
 <a href="https://www.linkedin.com/in/uthpala-nethmini/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
